@@ -1,0 +1,5 @@
+Django==3.2
+PyMySQL==1.1.2
+PyQRCode==1.2.1
+pypng==0.20220715.0
+python-dotenv==1.2.3
