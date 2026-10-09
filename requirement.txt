@@ -4,3 +4,4 @@ PyQRCode==1.2.1
 pypng==0.20220715.0
 python-dotenv==1.2.3
 gunicorn
+whitenoise
